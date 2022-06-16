@@ -8,4 +8,21 @@ The USGS dataset is downloadable from:
 
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv
 
+This is sample of earthquakes around Japan.
+
 <img src='https://github.com/Junya-Toyokura/world-earthquake-one-month/blob/main/sample.png' width=640 height=480>
+
+# How to install eqone on Linux, MacOS, or WSL on Windows
+
+You may need folium library.
+
+$pip install folium
+
+$pip install eqone
+
+# How to run eqone
+ 
+Eqone program allows user to specify up to arthquake scale(1~) to plot on world map.
+
+$eqone 4
+
