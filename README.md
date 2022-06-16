@@ -8,3 +8,4 @@ The USGS dataset is downloadable from:
 
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv
 
+<img src='https://github.com/Junya-Toyokura/world-earthquake-one-month/blob/main/sample.png' width=640 height=480>
