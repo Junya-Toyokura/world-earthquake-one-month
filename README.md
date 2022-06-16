@@ -26,3 +26,10 @@ Eqone program allows user to specify up to arthquake scale(1~) to plot on world 
 
 $eqone 4
 
+<img src='https://github.com/Junya-Toyokura/world-earthquake-one-month/blob/main/sample2.png' width=640 height=480>
+
+If you don't specify a number, program shows where earthquakes with intensity 5 upper are around the world.
+
+$eqone
+
+<img src='https://github.com/Junya-Toyokura/world-earthquake-one-month/blob/main/sample3.png' width=640 height=480>
