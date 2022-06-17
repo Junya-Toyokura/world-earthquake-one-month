@@ -33,3 +33,11 @@ If you don't specify a number, program shows where earthquakes with intensity 5 
 $eqone
 
 <img src='https://github.com/Junya-Toyokura/world-earthquake-one-month/blob/main/sample3.png' width=640 height=480>
+
+If it does not appear the map, there are 'map.html' file on your folder.
+
+MaxOSX $open map.html
+
+Windows $start map.html or explorer map.html
+
+WSL $explorer.exe map.html
