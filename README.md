@@ -1,3 +1,7 @@
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/5221262/tree)
+
+DOI: https://doi.org/10.24433/CO.5221262.v1
+
 # world-earthquake-one-month
 
 This program shows the number of earthquakes occurred around the world during a one-month period on a map.
